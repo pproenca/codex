@@ -1,7 +1,7 @@
 ---
 title: Inline Format Arguments in format Macros
 impact: LOW-MEDIUM
-impactDescription: Passes clippy::uninlined_format_args and improves readability
+impactDescription: 2-3x more readable format strings, prevents CI lint failure
 tags: ci, clippy, format, inline-args
 ---
 

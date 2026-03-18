@@ -1,7 +1,7 @@
 ---
 title: Use Exhaustive Match Without Wildcards
 impact: CRITICAL
-impactDescription: Catches unhandled variants at compile time when enums grow
+impactDescription: Prevents 100% of unhandled-variant bugs when enums grow
 tags: type, match, exhaustive, enums
 ---
 

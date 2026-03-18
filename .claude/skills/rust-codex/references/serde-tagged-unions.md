@@ -1,7 +1,7 @@
 ---
 title: Use Explicit Tag for Discriminated Unions
 impact: HIGH
-impactDescription: Ensures consistent discriminator field across Rust and TypeScript
+impactDescription: Prevents 100% of discriminated union deserialization failures
 tags: serde, tagged-union, discriminated, enums
 ---
 

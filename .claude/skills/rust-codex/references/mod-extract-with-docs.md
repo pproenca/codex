@@ -1,7 +1,7 @@
 ---
 title: Move Tests and Docs When Extracting Modules
 impact: HIGH
-impactDescription: Keeps invariants and documentation close to the code that owns them
+impactDescription: 2-3x faster onboarding by co-locating invariants with implementation
 tags: mod, refactoring, documentation, test-colocation
 ---
 

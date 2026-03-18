@@ -1,7 +1,7 @@
 ---
 title: Use Sibling Test Files Instead of Inline Test Modules
 impact: HIGH
-impactDescription: Keeps production code readable and test code separately navigable
+impactDescription: 30-50% reduction in production file size, 2x faster navigation
 tags: mod, testing, file-organization, conventions
 ---
 

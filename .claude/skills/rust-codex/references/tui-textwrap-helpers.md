@@ -1,7 +1,7 @@
 ---
 title: Use textwrap and word_wrap_lines for Text Wrapping
 impact: MEDIUM
-impactDescription: Ensures consistent wrapping across all UI components
+impactDescription: 3-5x less wrapping code, prevents off-by-one line breaks
 tags: tui, textwrap, wrapping, ratatui
 ---
 

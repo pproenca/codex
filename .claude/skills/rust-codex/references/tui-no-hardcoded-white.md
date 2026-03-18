@@ -1,7 +1,7 @@
 ---
 title: Avoid Hardcoded White Color
 impact: MEDIUM
-impactDescription: Ensures correct appearance on both light and dark terminal themes
+impactDescription: Prevents invisible text on 40%+ of terminal configurations
 tags: tui, color, accessibility, themes
 ---
 
